@@ -11,6 +11,9 @@ A lot of Lectures are alreafy submitted
 
 This is the famous and one of the best training course of Devops
 
+## Contribution
+Fork the Repo and 
+
 ## Git Comparisons
 Adding Git Comparisons Lecture
 

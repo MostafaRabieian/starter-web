@@ -3,11 +3,13 @@
 
 # TEAM
 
-    <name> MSTF Rabieian <twitter>
+    <name> MSTF Rabieian Ramezanpoor <twitter>
 
 # THANKS
 
-    <name>
+    MSTF
+    m.rabieian@gmail.com
+    Eng
 
 # TECHNOLOGY COLOPHON
 

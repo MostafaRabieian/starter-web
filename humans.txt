@@ -5,7 +5,7 @@
 
     <name> MSTF Rabieian Ramezanpoor <twitter>
     m.rabieian
-	Hi im modifing before rebease.
+
 # THANKS
 
     MSTF

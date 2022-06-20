@@ -19,3 +19,5 @@
     jQuery, Modernizr, AJ
     AWS, Ansible
     Docker, JAVA
+    machine Learning
+    

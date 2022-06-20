@@ -16,7 +16,7 @@ Adding git Rebease
 Fork the Repo and 
 
 ## Git Comparisons
-Adding Git Comparisons Lecture
+Adding Git Comparisons Lecture for stash
 
 ## GitHub Content
 Comparison With Repo
